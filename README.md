@@ -8,3 +8,6 @@ Prajwal Tuladhar's vim files
 
     git submodule init
     git submodule update
+
+### Nerdtree Tutorial
+    [http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree](http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree)
