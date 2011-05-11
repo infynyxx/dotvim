@@ -12,4 +12,4 @@
 	url = git://github.com/tomtom/tcomment_vim.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
-	url = git://git.wincent.com/command-t.git
+	url = https://github.com/wincent/Command-T.git
