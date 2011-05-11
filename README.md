@@ -9,10 +9,14 @@ Prajwal Tuladhar's vim files
     git submodule init
     git submodule update
 
-### Nerdtree Tutorial
+### NERDTree Tutorial
     
-    [http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree](http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree)
+   [http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree](http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree)
 
 ### Snipmate
     
-    [http://vimeo.com/3535418](http://vimeo.com/3535418)
+   [http://vimeo.com/3535418](http://vimeo.com/3535418)
+
+### Command-T
+    
+   [https://wincent.com/products/command-t/](https://wincent.com/products/command-t/)
