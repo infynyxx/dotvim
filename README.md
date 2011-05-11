@@ -11,7 +11,7 @@ Prajwal Tuladhar's vim files
 
 ### Nerdtree Tutorial
     
-    [http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree](http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree)a
+    [http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree](http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree)
 
 ### Snipmate
     
