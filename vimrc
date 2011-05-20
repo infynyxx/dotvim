@@ -118,3 +118,6 @@ au BufNewFile,BufRead *.txt set spell
 
 " PHP parser check (CTRL-L)
 :autocmd FileType php noremap <C-L> :!/usr/bin/php -l %<CR>
+
+" Status Line
+set statusline=%{fugitive#statusline()}
