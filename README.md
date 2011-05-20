@@ -6,6 +6,8 @@ Prajwal Tuladhar's vim files
 
 ### To update submodule
 
+    ln -s ~/.vim/vimrc ~/.vimrc
+    cd ~/.vim
     git submodule init
     git submodule update
 
