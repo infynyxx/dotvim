@@ -121,3 +121,6 @@ au BufNewFile,BufRead *.txt set spell
 
 " Status Line
 set statusline=%{fugitive#statusline()}
+
+" CloseTag setup
+:autocmd FileType html,xhtml,xml,php source ~/.vim/bundle/closetag/plugin/closetag.vim
