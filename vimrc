@@ -124,3 +124,5 @@ set statusline=%{fugitive#statusline()}
 
 " CloseTag setup
 :autocmd FileType html,xhtml,xml,php source ~/.vim/bundle/closetag/plugin/closetag.vim
+
+" let g:tagbar_ctags_bin = "/usr/bin/ctags"
