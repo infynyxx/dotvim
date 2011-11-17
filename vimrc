@@ -85,7 +85,7 @@ set ts=4  " Tabs are 2 spaces
 "set bs=4  " Backspace over everything in insert mode
 set shiftwidth=4  " Tabs under smart indent
 set softtabstop=4
-set tabstop=4
+set tabstop=8
 set nocp incsearch
 set cinoptions=:0,p0,t0
 set cinwords=if,else,while,do,for,switch,case
