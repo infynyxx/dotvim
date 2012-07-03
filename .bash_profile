@@ -8,6 +8,7 @@ complete -W "$(echo $(grep '^ssh ' ~/.bash_history | sort -u | sed 's/^ssh //'))
 #alias 6g='~/src/go/bin/6g'
 #alias 6l='~/src/go/bin/6l'
 
+# http://www.developerzen.com/2011/01/10/show-the-current-git-branch-in-your-command-prompt/
 function parse_git_branch () {
     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
