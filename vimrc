@@ -9,11 +9,6 @@ call pathogen#runtime_append_all_bundles()
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
-" if has("vms")
-"  set nobackup		" do not keep a backup file, use versions instead
-" else
-"  set backup		" keep a backup file
-" endif
 
 set history=50		" keep 50 lines of command line history
 set ruler		" show the cursor position all the time
@@ -34,6 +29,7 @@ set mouse=a
 if &t_Co > 2 || has("gui_running")
   syntax on
   set hlsearch
+  set gfn=Monaco:h12
 endif
 
 " http://userobsessed.net/tips-and-tricks/2011/05/10/copy-and-paste-in-vim/
@@ -134,4 +130,4 @@ let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 colorscheme solarized
 
-autocmd VimEnter * NERDTree
+" autocmd VimEnter * NERDTree

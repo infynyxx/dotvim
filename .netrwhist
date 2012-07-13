@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/praj/src/sailthru/www/assets/js'
 let g:netrw_dirhist_2='/home/praj/src/MongoNormolica'
 let g:netrw_dirhist_3='/home/praj'
@@ -7,3 +7,5 @@ let g:netrw_dirhist_4='/home/praj/src/sailthru'
 let g:netrw_dirhist_5='/home/praj/src/sailthru/www'
 let g:netrw_dirhist_6='/home/praj/src/sailthru'
 let g:netrw_dirhist_7='/home/praj/src/sailthru-node-client'
+let g:netrw_dirhist_8='/Users/praj/src/sailthru/java/mailer/build'
+let g:netrw_dirhist_9='/Users/praj/src/sailthru-ops/puppet-files/scribe'
