@@ -131,3 +131,4 @@ let g:solarized_visibility="high"
 colorscheme solarized
 
 " autocmd VimEnter * NERDTree
+let NERDTreeIgnore=['\.pyc$', '\~$', '\.class$']
