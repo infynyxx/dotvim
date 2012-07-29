@@ -19,9 +19,6 @@
 [submodule "bundle/web-indent"]
 	path = bundle/web-indent
 	url = git://github.com/garbas/vim-web-indent.git
-[submodule "bundle/scala"]
-	path = bundle/scala
-	url = https://github.com/ewiplayer/vim-scala.git
 [submodule "bundle/colors"]
 	path = bundle/colors
 	url = https://github.com/spf13/vim-colors.git
@@ -52,3 +49,6 @@
 [submodule "bundle/haskell"]
 	path = bundle/haskell
 	url = https://github.com/wlangstroth/vim-haskell.git
+[submodule "bundle/scala"]
+	path = bundle/scala
+	url = git://github.com/derekwyatt/vim-scala.git
