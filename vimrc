@@ -132,3 +132,7 @@ colorscheme solarized
 
 " autocmd VimEnter * NERDTree
 let NERDTreeIgnore=['\.pyc$', '\~$', '\.class$']
+
+" https://github.com/apache/thrift/blob/trunk/contrib/thrift.vim
+au BufRead,BufNewFile *.thrift set filetype=thrift
+au! Syntax thrift source ~/.vim/thrift.vim
