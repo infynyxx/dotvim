@@ -1,4 +1,3 @@
-Prajwal Tuladhar's vim files
 
 ### Source
 
