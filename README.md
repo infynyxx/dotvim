@@ -20,5 +20,3 @@
 ### Command-T
     
    [https://wincent.com/products/command-t/](https://wincent.com/products/command-t/)
-
-
